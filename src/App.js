@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <h1> Hello deploying with ci/cd </h1>
+        <h1> Hello deploying with ci/cd with vinay</h1>
     </div>
   );
 }
